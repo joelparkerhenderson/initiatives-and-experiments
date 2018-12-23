@@ -13,20 +13,24 @@ Initiatives are special projects where work is well-understood.
 
 Experiments are special projects where work involves testing hypotheses, validating learning, and generating new knowledge.
 
-  * Initiatives and experiements are mapped to strategic objectives.
+* Initiatives and experiements are mapped to strategic objectives.
 
-  * The mapping is in order to give an indication of the projects and actions that are needed in order to realize the objectives.
+* The mapping is in order to give an indication of the projects and actions that are needed in order to realize the objectives.
 
 Use systems thinking to identify cause-and-effect relationships among all the initiatives and experiments:
 
-  * Systems thinking represents the combined power of all the teams' high-level perception of the business model.
+ * Systems thinking represents the combined power of all the teams' high-level perception of the business model.
 
-  * Systems thinking helps ensure objectives are mutually supportive.
+* Systems thinking helps ensure objectives are mutually supportive.
 
 Use SMART criteria:
 
-  * Specific
-  * Measurable
-  * Actionable
-  * Relevant
-  * Timely
+* Specific
+
+* Measurable
+
+* Actionable
+
+* Relevant
+
+* Timely
